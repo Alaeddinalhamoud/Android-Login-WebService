@@ -27,6 +27,7 @@ public class LoginActivity extends AppCompatActivity {
     /** Login */
     public static String SOAP_ACTION_Login = "http://api.a-hamoud.com/LoginAPI";
     public static String METHOD_NAME_Login = "LoginAPI";
+    //////
 
 
     @Override
